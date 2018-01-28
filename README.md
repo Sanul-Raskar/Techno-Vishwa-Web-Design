@@ -21,12 +21,17 @@ This is just a dummy website created for a competition.Names and event descripti
 
 ### Participants
 Name:Sanul Raskar
+
 Year: SE IT
+
 College: VIIT,Pune
 
 
+
 Name:Saurav Hole
+
 Year: SE ENTC
+
 College: VIIT,Pune
 
 Check out our Youtube video by clicking the below image:
